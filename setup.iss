@@ -1,6 +1,6 @@
 [Setup]
 AppName=YouTube Downloader by StormGamesStudios
-AppVersion=1.0.5
+AppVersion=1.0.6
 DefaultDirName={userappdata}\StormGamesStudios\Programs\YouTubeDownloader
 DefaultGroupName=StormGamesStudios
 OutputDir=C:\Users\melio\Documents\GitHub\youtube-downloader\output
@@ -11,7 +11,7 @@ AppCopyright=Copyright © 2025 StormGamesStudios. All rights reserved.
 VersionInfoCompany=StormGamesStudios
 AppPublisher=StormGamesStudios
 SetupIconFile=youtube-downloader.ico
-VersionInfoVersion=1.0.5.0
+VersionInfoVersion=1.0.6.0
 DisableProgramGroupPage=yes
 ; Habilitar selección de carpeta
 DisableDirPage=yes

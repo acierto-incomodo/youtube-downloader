@@ -4,7 +4,7 @@
   "Language": 0,
   "IsAutoUpdateEnabled": true,
   "IsAuthPersisted": true,
-  "FFmpegFilePath": "C:\\Users\\melio\\Desktop\\YoutubeDownloader.win-x64\\ffmpeg.exe",
+  "FFmpegFilePath": null,
   "ShouldInjectLanguageSpecificAudioStreams": true,
   "ShouldInjectSubtitles": true,
   "ShouldInjectTags": true,
